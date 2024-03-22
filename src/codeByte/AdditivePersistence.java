@@ -8,7 +8,7 @@ public class AdditivePersistence {
 	public static void main(String[] args) {
 
 		boolean flage = true;
-		int num = 271854598;
+		int num =  271854598;
 		int count = 0;
 		int newNum = 0;
 		while (flage) {
