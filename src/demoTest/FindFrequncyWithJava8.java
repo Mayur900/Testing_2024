@@ -4,7 +4,7 @@ import java.util.Map;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
-public class Test_2 {
+public class FindFrequncyWithJava8 {
 
 	public static void main(String[] args) {
 
